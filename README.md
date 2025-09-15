@@ -8,5 +8,7 @@ Report issues about my mods here!
 - Origins Weapons
 - Smallify
 - Backslot Mod
+- Exhibit
+- Mede's Game Tweaks*
 
 (Mods with a * are in need of idea's, so feel free to give them aswell)
