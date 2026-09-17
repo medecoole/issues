@@ -2,13 +2,13 @@
 Report issues about my mods here!
 ## Mod list:
 - Mede's Decor
-- Plushiez*
 - Sea Weapons*
 - Reeling Scythes*
-- Origins Weapons
 - Smallify
 - Backslot Mod
-- Exhibit
-- Mede's Game Tweaks*
+- Backslot Mod: Json Generator
+- Exhibit*
+- Engraved
+- Sturdy Styles*
 
 (Mods with a * are in need of idea's, so feel free to give them aswell)
